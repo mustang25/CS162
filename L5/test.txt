@@ -1,0 +1,6 @@
+This is a line with spaces
+If this works we should check and see 
+if the next line makes all caps
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3248732740182734-=-4=-_+_)_+,./
